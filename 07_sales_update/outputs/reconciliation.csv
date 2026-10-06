@@ -1,0 +1,5 @@
+event_date,new_file,old_file,prior_accepted,old_rows,new_rows,exact_overlap_records,unmatched_new,likely_revisions,new_distinct_records,new_after_prior_last_timestamp,backfilled_or_at_prior_last_timestamp,old_unmatched_unresolved,net_snapshot_change,prior_last_record_utc
+2026-10-02,01-1002.csv,14-1002.csv,False,1203,1290,1201,89,1,88,87,1,1,87,2026-09-28 21:17:00+00:00
+2026-10-07,02-1007.csv,12-1007.csv,True,1088,1131,1086,45,2,43,41,2,0,43,2026-09-28 21:33:00+00:00
+2026-10-03,03-1003.csv,13-1003.csv,True,1083,1123,1080,43,3,40,40,0,0,40,2026-09-28 21:19:00+00:00
+2026-09-30,04-0930.csv,sales_data.csv,True,1277,1453,1276,177,0,177,176,1,1,176,2026-09-27 19:14:00+00:00

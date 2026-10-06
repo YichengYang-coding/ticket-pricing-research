@@ -1,0 +1,22 @@
+﻿source_id,title,url,published_date,source_type,access_status,checked_date,notes
+S01,官方夏季21场排期,https://backstreetboys.com/news/backstreet-boys-announce-their-final-three-summer-sphere-shows/,2026-03-16,artist_official,read,2026-09-29 UTC,列出7/16–8/29全部21场；最后三场3/20公开售票。
+S02,7/16场次时间,https://www.bandsintown.com/e/107965805-backstreet-boys-at-sphere,2026-07-16,event_listing,read,2026-09-29 UTC,明确20:00 PDT；其他场统一20:00为工作假设，非逐场实际登台时间。
+S03,SeatData FAQ,https://docs.seatdata.io/docs/faq/,,vendor_documentation,read,2026-09-29 UTC,价格不含费用；Qty=0为未知；采集频率随事件活跃度变化。
+S04,SeatData Sales API,https://docs.seatdata.io/docs/api/reference/v1/getEventSales/,,vendor_documentation,read,2026-09-29 UTC,sh部分价格数量来自listing补全；vs观测笔数为下界；CSV未带listing ID或监测覆盖元数据。
+S05,Sphere宣布跨年加场,https://www.sphereentertainmentco.com/backstreet-boys-to-ring-in-the-new-year-with-three-new-dates-for-the-into-the-millennium-sphere-residency/,2026-08-10,venue_press_release,read,2026-09-29 UTC,新增12/31、1/1、1/2；称整个驻演累计47场售罄、超过75万人次。是主办方累计口径，非21场逐场热度。
+S06,官方再增加两场,https://backstreetboys.com/news/backstreet-boys-add-two-more-new-dates-for-the-into-the-millennium-sphere-residency/,2026-08-19,artist_official,read,2026-09-29 UTC,新增12/26与12/27。增加供给和宣传冲击可能同时影响夏季场次。
+S07,People乐队访谈,https://people.com/backstreet-boys-share-secret-to-33-year-friendship-in-their-sphere-era-exclusive-12059657,2026-08-14,entertainment_press,search_excerpt_only,2026-09-29 UTC,驻演给成员带来积极体验的访谈；不是观众统计，全文直接读取失败。
+S08,FSUniverse嵌入官方7/18 Instagram帖,https://www.fsuniverse.net/forum/threads/alysa-liu-cheer-fan-thread.106483/page-17,2026-07-18,third_party_embedded_social,read,2026-09-29 UTC,嵌入注明29K likes、236 comments；缓存时间未知，不能当首24小时指标。
+S09,8/10官方Instagram帖的镜像,https://imginn.com/p/Db3fqFgtPj7/,2026-08-10,third_party_mirror,read,2026-09-29 UTC,"页面59,121未标注类型的计数及Comments(1974)；首个数字疑似点赞，未获原帖核验。搜索曾返回较旧58,864/1,968。"
+S10,8/11官方Instagram帖的镜像,https://imginn.com/p/Db6jQ8Qvxdy/,2026-08-11,third_party_mirror,read,2026-09-29 UTC,"页面12,586未标注类型的计数及Comments(480)；首个数字疑似点赞，未获原帖核验。"
+S11,HypeAuditor BSB Instagram历史数据,https://hypeauditor.com/instagram/backstreetboys/,,third_party_analytics,read_multiple_cached_versions,2026-09-29 UTC,"较早缓存含8/11粉丝6,262,878及8/29粉丝6,301,689；更新缓存为9月窗口。均非Instagram第一方实时值。"
+S12,Reddit：第50场庆祝帖,https://www.reddit.com/r/BackstreetBoys/comments/1vqc1gx/backstreet_celebrating_50_shows/,2026-08-16,fan_community,read_and_indexed_score,2026-09-29 UTC,官方内容转贴，评论有再次观演意愿；搜索索引234净票，不是Instagram点赞。
+S13,Reddit：值不值得飞去看,https://www.reddit.com/r/BackstreetBoys/comments/1vczayq/question_for_those_whove_gone_to_the_sphere/,2026-08-01,fan_community,read_and_indexed_score,2026-09-29 UTC,多数已读回复积极，也提到预算限制；索引31净票。粉丝论坛选择性强。
+S14,Ticketmaster 7月评论,https://www.ticketmaster.com/artist/781254?page=9&tt_scene=anchor_view,,ticket_platform_user_reviews,search_excerpt,2026-09-29 UTC,7/27评论者自称第4次观看仍喜欢；7/26评论同时称赞演出、批评时长和迟开场。不是统计抽样。
+S15,Ticketmaster 8月评论,https://www.ticketmaster.com/backstreet-boys-tickets/artist/781254?2269481858_177745934320_backstreet+boys+las+vegas=&GCID=0&gclsrcshybbb=aw.ds&page=3&tt_scene=anchor_view,2026-08-19,ticket_platform_user_reviews,search_excerpt,2026-09-29 UTC,评论者称7月观看后计划买1/1场，是重复消费意向例子，不代表总体。
+S16,Touring Data票房页,https://touringdata.org/2025/08/21/backstreet-boys-into-the-millennium/,2025-08-21,secondary_boxoffice_aggregator,read_current_page,2026-09-29 UTC,2026夏季七个周末仍为TBA。不可把2025票房误用于本次2026样本。
+S17,Exolyt账户分析功能,https://exolyt.com/features/account-overview,,analytics_vendor,read,2026-09-29 UTC,说明TikTok账户、视频、历史增长及CSV导出功能；本次未购买或获得BSB历史数据。
+S18,Exolyt历史追踪说明,https://exolyt.com/guides/how-to-view-tiktok-analytics,2020-02-12,analytics_vendor_older_guide,read,2026-09-29 UTC,旧指南称历史记录从加入服务后才有；购买前必须确认BSB所需日期覆盖，不假设可追溯全部过去。
+S19,Social Blade账户统计示例,https://socialblade.com/instagram/user/instagram,,analytics_vendor,read_search,2026-09-29 UTC,提供粉丝及发帖等账户统计，部分功能需登录；未获取BSB逐帖历史。
+S20,官方第二批夏季场公告,https://backstreetboys.com/news/backstreet-boys-announce-another-six-sphere-dates-in-july-and-august/,2026-02-24,artist_official,read,2026-09-29 UTC,场次分批公布；新增7/30–8/8六场，不能假定所有21场同日开卖。
+S21,TikTok官方账号检索,https://www.tiktok.com/@backstreetboys,,social_platform,robots_blocked,2026-09-29 UTC,未取得逐帖点赞/播放量；没有将缺失填为0。

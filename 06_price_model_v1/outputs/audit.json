@@ -1,0 +1,22 @@
+{
+  "input_sha256": "252a74bcb6fd34b5a67c432d611ae601afd1b0640abce3eafe8167f710528057",
+  "input_rows": 39427,
+  "universe_rows": 13345,
+  "events": 29,
+  "sparse_rows_1_2_excluded": 109,
+  "replay_origins": 27,
+  "replay_rows": 4955,
+  "strict_coverage_pct": 0.9687184661957619,
+  "fallback_coverage_pct": 100.0,
+  "snapshot_origin": "2026-09-28 22:00:00+00:00",
+  "final_training_rows": 9496,
+  "final_training_max_timestamp": "2026-09-28 21:19:00+00:00",
+  "models": "single specification; no hyperparameter search",
+  "evaluation_status": "retrospective rolling time replay; design informed by previously inspected history",
+  "strict_model_win_pct": 50.0,
+  "strict_days_model_better": 10,
+  "strict_days_compared": 18,
+  "fallback_model_win_pct": 67.64883955600403,
+  "fallback_days_model_better": 27,
+  "fallback_days_compared": 27
+}

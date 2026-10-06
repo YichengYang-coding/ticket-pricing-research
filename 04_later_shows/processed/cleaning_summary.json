@@ -1,0 +1,10 @@
+{
+  "all_rows": 39427,
+  "accepted_rows": 37021,
+  "accepted_events": 29,
+  "quarantined_rows": 2406,
+  "original_columns_preserved": true,
+  "raw_sha256_verified": true,
+  "ordinary100_records": 14434,
+  "other_reserved_records": 13574
+}

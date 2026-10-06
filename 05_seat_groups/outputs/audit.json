@@ -1,0 +1,54 @@
+{
+  "input_rows": 39427,
+  "accepted_rows": 37021,
+  "accepted_events": 29,
+  "quarantined_rows": 2406,
+  "candidate_100_rows": 14745,
+  "ordinary_exact_section_rows": 14675,
+  "model_rows": 13454,
+  "model_events": 29,
+  "outside_numeric_1_22": 12,
+  "nonnumeric_or_missing_rows": 75,
+  "model_extreme_flags": 9,
+  "model_duplicate_extras": 1,
+  "model_qty_unknown": 4254,
+  "source_sha256": "252a74bcb6fd34b5a67c432d611ae601afd1b0640abce3eafe8167f710528057",
+  "models": {
+    "all_history": {
+      "n": 13454,
+      "p": 119,
+      "rank": 119,
+      "iterations": 17
+    },
+    "within30days": {
+      "n": 6773,
+      "p": 87,
+      "rank": 87,
+      "iterations": 14
+    },
+    "completed_events": {
+      "n": 8661,
+      "p": 104,
+      "rank": 104,
+      "iterations": 14
+    },
+    "exclude_flags": {
+      "n": 13444,
+      "p": 119,
+      "rank": 119,
+      "iterations": 14
+    },
+    "late_sale_period": {
+      "n": 5122,
+      "p": 83,
+      "rank": 83,
+      "iterations": 16
+    },
+    "common_rows_6_20": {
+      "n": 10738,
+      "p": 112,
+      "rank": 112,
+      "iterations": 12
+    }
+  }
+}

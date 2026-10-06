@@ -1,0 +1,7 @@
+﻿source_id,publisher,published_date,event_date,url,evidence,limitation,retrieved_date
+N1,Vogue,2026-08-28,2026-08-26,https://www.vogue.com/article/harry-styles-madison-square-garden-review,媒体现场评论；售罄描述,不等于逐场入场或二级市场需求统计,2026-09-28
+N2,Pitchfork,2026-09-10,2026-09-10,https://pitchfork.com/story/harry-styles-reveals-2027-tour-dates/,新增巡演新闻,可能分流需求是研究推断，尚未验证,2026-09-28
+N3,FaceValue,,,https://facevalueto.ca/harry-styles-together-together-tour-2027/,独立票务评论：疲劳及第二轮公告后价格走弱,精确首次发布时间未核实；不能作历史实时信号,2026-09-28
+D1,SeatData sales API,,,https://docs.seatdata.io/docs/api/reference/v1/getEventSales/,来源差异及价格/数量口径,不等于完整市场销量,2026-09-28
+D2,SeatData FAQ,,,https://docs.seatdata.io/docs/faq/,费用、数量未知、采集延迟,不是导出文件首次可见时间,2026-09-28
+E1,MSG,,,https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-october-2026/3B00643506AE83A2,未来场次20:00及Harryween,动态页面；活动排期非实际歌手上台时间,2026-09-28

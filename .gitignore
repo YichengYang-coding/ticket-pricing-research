@@ -1,0 +1,24 @@
+# Licensed row-level SeatData records — never commit
+**/raw/
+**/input/
+**/upstream/
+**/screenshots/
+data/*.csv
+!data/sample_200_rows.csv
+**/*_records.csv
+**/Harry_cleaned_sales*.csv
+**/Harry_current_sales*.csv
+**/new_files_cleaned.csv
+**/new_flagged_records.csv
+**/model_universe*.csv
+**/scored_*.csv
+**/oos_scored*.csv
+**/replay_predictions.csv
+**/comparison_history.csv
+# Marketplace screenshots
+**/*.jpg
+**/*.jpeg
+# Scratch
+*.tmp
+__pycache__/
+.DS_Store

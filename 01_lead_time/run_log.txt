@@ -1,0 +1,197 @@
+{
+  "audit": {
+    "event_date": "ALL",
+    "raw_rows": 23424,
+    "100_level_rows": 9573,
+    "eligible_100_main_30d": 6339,
+    "qty_unknown": 6227,
+    "qty_invalid": 0,
+    "qty_large_review": 38,
+    "price_invalid": 0,
+    "time_invalid": 0,
+    "at_or_after_start": 281,
+    "source_unknown": 0,
+    "row100_missing": 34,
+    "row100_review": 21,
+    "section100_review": 54,
+    "duplicate_candidate": 16,
+    "duplicate_extra_candidate": 8,
+    "cross_source_candidate": 0,
+    "price_extreme_review": 23,
+    "price_above_10000_review": 15,
+    "section100_wc_label": 52,
+    "winter_timezone_ambiguous": 3778,
+    "missing_Date/Time (EDT)": 0,
+    "missing_Source": 0,
+    "missing_Zone": 87,
+    "missing_Section": 0,
+    "missing_Row": 1063,
+    "missing_Qty": 0,
+    "missing_Price": 0
+  },
+  "model": {
+    "n": 6339,
+    "p": 65,
+    "rank": 65,
+    "r2": 0.6396153808004721,
+    "ref_geo": 416.55474147307086
+  },
+  "indices": [
+    {
+      "model": "main_30d",
+      "time_bin": "gt7d",
+      "records": 2450,
+      "events": 15,
+      "coefficient_log": 0.0,
+      "cluster_se": 0.0,
+      "adjusted_index": 100.0,
+      "index_lower_95": 100.0,
+      "index_upper_95": 100.0,
+      "pct_vs_reference": 0.0,
+      "standardized_geometric_price_usd": 416.55474147307086,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    },
+    {
+      "model": "main_30d",
+      "time_bin": "4to7d",
+      "records": 829,
+      "events": 15,
+      "coefficient_log": -0.14771345799392638,
+      "cluster_se": 0.026917252077202185,
+      "adjusted_index": 86.26782730927263,
+      "index_lower_95": 81.42846982942218,
+      "index_upper_95": 91.3947915790682,
+      "pct_vs_reference": -13.73217269072737,
+      "standardized_geometric_price_usd": 359.35272502257584,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    },
+    {
+      "model": "main_30d",
+      "time_bin": "48to96h",
+      "records": 820,
+      "events": 15,
+      "coefficient_log": -0.21568556351905527,
+      "cluster_se": 0.030977905866632023,
+      "adjusted_index": 80.59886942821946,
+      "index_lower_95": 75.41782269498356,
+      "index_upper_95": 86.13584323933638,
+      "pct_vs_reference": -19.401130571780538,
+      "standardized_geometric_price_usd": 335.7384121769375,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    },
+    {
+      "model": "main_30d",
+      "time_bin": "24to48h",
+      "records": 766,
+      "events": 15,
+      "coefficient_log": -0.28814461574578104,
+      "cluster_se": 0.031908555957723045,
+      "adjusted_index": 74.96531727469934,
+      "index_lower_95": 70.00653005465426,
+      "index_upper_95": 80.27535130949849,
+      "pct_vs_reference": -25.034682725300648,
+      "standardized_geometric_price_usd": 312.2715835680912,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    },
+    {
+      "model": "main_30d",
+      "time_bin": "12to24h",
+      "records": 325,
+      "events": 15,
+      "coefficient_log": -0.30640334058960295,
+      "cluster_se": 0.03469846208498813,
+      "adjusted_index": 73.60896647338052,
+      "index_lower_95": 68.32980437386097,
+      "index_upper_95": 79.29599674592332,
+      "pct_vs_reference": -26.391033526619484,
+      "standardized_geometric_price_usd": 306.62163999418965,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    },
+    {
+      "model": "main_30d",
+      "time_bin": "within12h",
+      "records": 1149,
+      "events": 15,
+      "coefficient_log": -0.3295100101135775,
+      "cluster_se": 0.034051824787457184,
+      "adjusted_index": 71.9276085107746,
+      "index_lower_95": 66.86169788974587,
+      "index_upper_95": 77.37734800887688,
+      "pct_vs_reference": -28.072391489225396,
+      "standardized_geometric_price_usd": 299.61786367981966,
+      "model_n": 6339,
+      "model_parameters": 65,
+      "clusters": 15
+    }
+  ],
+  "matched": [
+    {
+      "time_bin": "12to24h",
+      "strata": 1,
+      "events": 1,
+      "median_ratio": 0.9552666666666667
+    },
+    {
+      "time_bin": "48to96h",
+      "strata": 1,
+      "events": 1,
+      "median_ratio": 0.8575476622505035
+    },
+    {
+      "time_bin": "4to7d",
+      "strata": 3,
+      "events": 3,
+      "median_ratio": 0.7631133098400651
+    },
+    {
+      "time_bin": "gt7d",
+      "strata": 92,
+      "events": 15,
+      "median_ratio": 1.0
+    },
+    {
+      "time_bin": "within12h",
+      "strata": 2,
+      "events": 2,
+      "median_ratio": 0.6935283744644121
+    }
+  ],
+  "selected_files": {
+    "0826": "0826",
+    "0828": "0828",
+    "0829": "0829",
+    "0902": "0902",
+    "0904": "0904",
+    "0905": "0905",
+    "0909": "0909",
+    "0911": "09111",
+    "0912": "09121",
+    "0916": "09161",
+    "0918": "09181",
+    "0919": "0919",
+    "0923": "0923",
+    "0925": "0925",
+    "0926": "0926"
+  },
+  "bin_rule": "(0,12],(12,24],(24,48],(48,96],(96,168],(168,infinity); h<=0 separate",
+  "as_of_local": "2026-09-27 America/Chicago",
+  "q2_status": "protocol only; no continuation claim"
+}
+model      all_history  calendar_week_control  dedup_sensitivity  early_8_events  exclude_extreme_review  known_qty_only  late_7_events  main_30d  sh_only  start_shift_+1h  start_shift_-1h
+time_bin                                                                                                                                                                                    
+12to24h          63.47                  89.75              73.61           79.99                   73.61           74.84          67.50     73.61    74.58            73.56            74.07
+24to48h          64.50                  91.63              74.97           81.88                   74.97           76.29          68.38     74.97    75.57            74.79            75.20
+48to96h          69.30                  96.88              80.60           87.87                   80.60           82.16          73.75     80.60    80.95            80.55            80.90
+4to7d            74.27                  98.84              86.27           93.64                   86.27           87.87          80.25     86.27    86.73            86.20            86.37
+gt7d            100.00                 100.00             100.00          100.00                  100.00          100.00         100.00    100.00   100.00           100.00           100.00
+within12h        62.16                  87.82              71.93           75.67                   71.93           73.19          68.67     71.93    72.53            71.31            72.48

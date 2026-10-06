@@ -1,0 +1,76 @@
+{
+  "raw_rows": 22154,
+  "events": 21,
+  "primary_price": {
+    "model": "primary_7_14",
+    "n_records": 512,
+    "n_events": 21,
+    "n_sale_weeks": 8,
+    "rank": 49,
+    "beta": -0.1666617336995186,
+    "se": 0.13502546984253444,
+    "df": 7,
+    "pct_per_10": -15.351409943254637,
+    "ci_low_pct": -38.48851214762104,
+    "ci_high_pct": 16.488546266204608,
+    "p": 0.256917810440788
+  },
+  "primary_activity": {
+    "model": "primary_7_14",
+    "outcome": "ordinary100_count",
+    "n_events": 21,
+    "n_records": 512,
+    "n_event_weeks": 7,
+    "beta": 0.6764495261920201,
+    "se": 0.1420130228895092,
+    "df": 6,
+    "dispersion": 2.0654057070021916,
+    "pct_per_10": 96.6881957548377,
+    "ci_low_pct": 38.951696210010354,
+    "ci_high_pct": 178.4150708806268,
+    "p": 0.0031158244183312343
+  },
+  "primary_quality": {
+    "qty_unknown": 18,
+    "duplicate_extra_candidate": 0,
+    "price_extreme_review": 1,
+    "price_above_10000_review": 0
+  },
+  "primary_allzone_records": 1987,
+  "all_days_observed": 21,
+  "max_gap_range": [
+    9.649999999965075,
+    22.783333333325572
+  ],
+  "first6_index": 100.0,
+  "last6_index": 77.18654054359085,
+  "first6_count": 11.5,
+  "last6_count": 37.0
+}
+                      model  n_records  pct_per_10  ci_low_pct  ci_high_pct
+               primary_7_14        512  -15.351410  -38.488512    16.488546
+          exact_section_row        512  -12.706603  -35.686798    18.484804
+         exclude_first_last        472  -15.983083  -33.830141     6.677609
+           dedup_candidates        512  -15.351410  -38.488512    16.488546
+        exclude_price_flags        511  -15.047905  -37.963072    16.331655
+             known_qty_only        494  -15.913909  -38.912659    15.743630
+                 rows_12_22        184  -10.794852  -41.926856    37.026479
+             levels_200_400       1299   -6.207640  -29.217814    24.282778
+announcement_cohort_control        512  -31.910677  -57.572920     9.273508
+         post_aug10_control        512  -36.197412  -47.419433   -22.580329
+                 window_0_7       1519    7.210738  -22.228344    47.793464
+               window_14_21        422  -21.735825  -37.846654    -1.448893
+               window_21_28        337  -23.346722  -32.143552   -13.409481
+            start_shift_-1h        509  -15.270102  -38.336346    16.424428
+            start_shift_+1h        516  -15.239751  -38.405682    16.639003
+                      model  n_records  pct_per_10  ci_low_pct  ci_high_pct
+               primary_7_14        512   96.688196   38.951696   178.415071
+         exclude_first_last        472  110.576964   56.181327   183.917796
+           dedup_candidates        512   96.688196   38.951696   178.415071
+                  all_zones       1987   79.473756   25.040677   157.602806
+             levels_200_400       1299   81.839612   24.645615   165.277236
+announcement_cohort_control        512   81.419038  -72.888111  1113.964379
+    all_days_presence_proxy        512   96.688196   38.951696   178.415071
+                 window_0_7       1519    9.661118  -25.518835    61.457743
+               window_14_21        422  175.840790   80.580384   321.353305
+               window_21_28        337  208.215875   67.522415   467.070535

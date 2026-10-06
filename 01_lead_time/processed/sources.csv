@@ -1,0 +1,10 @@
+﻿source_id,title,url,what_it_supports,retrieved_local_date
+S1,SeatData FAQ,https://docs.seatdata.io/docs/faq/,价格不含费用；Qty=0表示数量未知；记录存在监测延迟。,2026-09-27
+S2,SeatData sales API,https://docs.seatdata.io/docs/api/reference/v1/getEventSales/,sh价格/数量可能由挂牌信息补足；vs记录覆盖是下界；不得理解为完整市场逐笔成交。,2026-09-27
+S3,Ticketmaster pricing,https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined,主办方制定票面价，转售方制定转售价；前台展示通常包含必要费用。,2026-09-27
+S4,MSG official 2026 residency schedule,https://www.msgentertainment.com/madison-square-garden-harry-styles-together-together-30-shows-between-august-26-october-31/,确认15个已结束场次日期。,2026-09-27
+S5,MSG indexed schedule,https://www.msg.com/,检索记录显示8/26与8/28为20:00 ET；动态页面可能更新。,2026-09-27
+S6,Ticketmaster August 29 event,https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-08-29-2026/event/3B006435046481AA,8/29为20:00当地时间。,2026-09-27
+S7,Ticketmaster Jamie xx schedule,https://www.ticketmaster.com/jamie-xx-tickets/artist/1506392?awtrc=true,检索记录显示9/2、9/4、9/5、9/9为20:00当地时间。,2026-09-27
+S8,MSG indexed dates and times,https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-october-2026/3B00643506AE83A2,检索记录含9/11至9/26各场20:00 ET；开场时间定义为预定活动开始，不是歌手实际上台。,2026-09-27
+S9,MSG seating map,https://www.msg.com/madison-square-garden/seating/msg-knicks,仅用于场馆大类参考；体育座位图不能替代本次演唱会座位图。,2026-09-27

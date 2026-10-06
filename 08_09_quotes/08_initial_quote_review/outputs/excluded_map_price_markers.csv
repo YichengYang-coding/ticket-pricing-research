@@ -1,0 +1,24 @@
+file,platform,marker_number_within_file,displayed_price,reason,listing_id,ticket_count,row,fee_basis,not_a_ticket_count
+01-2026-09-29-180152.jpg,SeatGeek,1,1360,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-180152.jpg,SeatGeek,2,2168,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-180152.jpg,SeatGeek,3,1022,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-180152.jpg,SeatGeek,4,3802,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-180152.jpg,SeatGeek,5,2624,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,1,1717,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,2,1021,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,3,3763,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,4,2814,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,5,1403,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,6,1346,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,7,1001,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,8,2107,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,9,4936,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,10,5290,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-182853.jpg,TickPick,11,1364,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+03-2026-09-29-182725.jpg,Gametime,1,3795,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+03-2026-09-29-182725.jpg,Gametime,2,1001,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-183028.jpg,StubHub,1,1201,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-183028.jpg,StubHub,2,1423,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-183028.jpg,StubHub,3,1998,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-183028.jpg,StubHub,4,1080,user cutoff: displayed price > 1000,,,,not established for this individual map label,True
+01-2026-09-29-183028.jpg,StubHub,5,1660,user cutoff: displayed price > 1000,,,,not established for this individual map label,True

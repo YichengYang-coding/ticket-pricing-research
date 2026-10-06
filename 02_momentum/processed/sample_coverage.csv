@@ -1,0 +1,9 @@
+﻿variant,kind,candidate_event_days,feature_eligible,labeled,missing_future
+all_sources,main,2275,869,791,78
+all_sources,split,2275,536,501,35
+all_sources,nonoverlap,2275,869,692,177
+sh_only,main,2275,859,780,79
+sh_only,split,2275,473,443,30
+sh_only,nonoverlap,2275,859,682,177
+dedup,main,2275,869,791,78
+under_10000,main,2275,869,791,78

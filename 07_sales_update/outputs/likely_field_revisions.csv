@@ -1,0 +1,7 @@
+event_date,old_file,new_file,Date/Time (EDT),Source,Zone,Section,Row,old_qty,new_qty,old_price,new_price,interpretation
+2026-10-02,14-1002.csv,01-1002.csv,09-28-26 / 04:26 PM,sh,General Admission,Right,GA,1,2,440.02,440.02,"same timestamp/source/seat signature; likely field revision, no listing ID"
+2026-10-07,12-1007.csv,02-1007.csv,09-28-26 / 03:50 PM,sh,100 Level,117,18,0,2,457.45,457.45,"same timestamp/source/seat signature; likely field revision, no listing ID"
+2026-10-07,12-1007.csv,02-1007.csv,09-28-26 / 03:49 PM,sh,100 Level,106,20,0,4,414.1,414.1,"same timestamp/source/seat signature; likely field revision, no listing ID"
+2026-10-03,13-1003.csv,03-1003.csv,09-28-26 / 05:19 PM,sh,100 Level,107,8,0,2,974.12,974.12,"same timestamp/source/seat signature; likely field revision, no listing ID"
+2026-10-03,13-1003.csv,03-1003.csv,09-28-26 / 05:15 PM,sh,100 Level,119,20,0,2,359.84,359.84,"same timestamp/source/seat signature; likely field revision, no listing ID"
+2026-10-03,13-1003.csv,03-1003.csv,09-28-26 / 05:14 PM,sh,100 Level,114,10,0,1,256.79,256.79,"same timestamp/source/seat signature; likely field revision, no listing ID"

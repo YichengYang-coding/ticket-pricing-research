@@ -1,0 +1,6 @@
+file,platform,identity_basis,kind,visible_excluded_marker_count,notes
+01-2026-09-29-180152.jpg,SeatGeek,user identified,map,5,Five fully legible map labels above threshold. Do not count these markers as tickets or distinct listing IDs.
+01-2026-09-29-182853.jpg,TickPick,user confirmed in current turn,map,11,Eleven fully legible labels above threshold. Some are outside ordinary 100 Level. Clipped edge labels are not reconstructed.
+03-2026-09-29-182725.jpg,Gametime,user confirmed in current turn,map,2,Two fully legible labels above threshold; precise row and quantity are not visible.
+02-2026-09-29-182822.jpg,Ticketmaster,visible logo,listing overview,0,Keep separate from secondary-market sales data; screenshot confirms 2026-09-30 MSG.
+01-2026-09-29-183028.jpg,StubHub,user identified,map,5,"Four ordinary 100 Level section labels and one Disco floor label above threshold. Row, quantity filter and fee breakdown are not visible. Remaining inventory badges are not treated as complete inventory counts."

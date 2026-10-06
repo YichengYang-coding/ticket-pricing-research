@@ -1,0 +1,632 @@
+﻿event_date,source,zone,records
+2026-08-26,sh,100 Level,653
+2026-08-26,sh,200 Level,451
+2026-08-26,sh,200 Level Barstools,3
+2026-08-26,sh,400 Level,44
+2026-08-26,sh,Chase Bridges,27
+2026-08-26,sh,Chase Bridges Barstools,3
+2026-08-26,sh,Floor,1
+2026-08-26,sh,General Admission,157
+2026-08-26,sh,Lounge,5
+2026-08-26,sh,Lounge Barstools,2
+2026-08-26,sh,Madison Club,6
+2026-08-26,sh,Pit,40
+2026-08-26,sh,West Balcony,18
+2026-08-26,sh,West Balcony Barstools,8
+2026-08-28,sh,100 Level,555
+2026-08-28,sh,200 Level,452
+2026-08-28,sh,200 Level Barstools,1
+2026-08-28,sh,400 Level,59
+2026-08-28,sh,Chase Bridges,33
+2026-08-28,sh,Chase Bridges Barstools,2
+2026-08-28,sh,Floor,1
+2026-08-28,sh,General Admission,172
+2026-08-28,sh,Lounge,2
+2026-08-28,sh,Lounge Barstools,3
+2026-08-28,sh,Madison Club,5
+2026-08-28,sh,Pit,62
+2026-08-28,sh,West Balcony,25
+2026-08-28,sh,West Balcony Barstools,6
+2026-08-28,vs,,1
+2026-08-28,vs,100 Level,20
+2026-08-28,vs,200 Level,12
+2026-08-28,vs,400 Level,7
+2026-08-28,vs,Chase Bridges,2
+2026-08-28,vs,General Admission,3
+2026-08-28,vs,Pit,1
+2026-08-28,vs,West Balcony,1
+2026-08-29,sh,,1
+2026-08-29,sh,100 Level,597
+2026-08-29,sh,200 Level,494
+2026-08-29,sh,200 Level Barstools,2
+2026-08-29,sh,400 Level,57
+2026-08-29,sh,Chase Bridges,36
+2026-08-29,sh,Chase Bridges Barstools,7
+2026-08-29,sh,General Admission,178
+2026-08-29,sh,Lounge,7
+2026-08-29,sh,Lounge Barstools,2
+2026-08-29,sh,Madison Club,5
+2026-08-29,sh,Pit,50
+2026-08-29,sh,Suites,2
+2026-08-29,sh,West Balcony,28
+2026-08-29,sh,West Balcony Barstools,6
+2026-08-29,vs,100 Level,31
+2026-08-29,vs,200 Level,25
+2026-08-29,vs,400 Level,7
+2026-08-29,vs,Chase Bridges,1
+2026-08-29,vs,General Admission,1
+2026-08-29,vs,Lounge,1
+2026-08-29,vs,Pit,1
+2026-08-29,vs,West Balcony,1
+2026-09-02,sh,100 Level,625
+2026-09-02,sh,200 Level,519
+2026-09-02,sh,200 Level Barstools,3
+2026-09-02,sh,400 Level,36
+2026-09-02,sh,Chase Bridges,35
+2026-09-02,sh,Chase Bridges Barstools,4
+2026-09-02,sh,General Admission,177
+2026-09-02,sh,Lounge,12
+2026-09-02,sh,Lounge Barstools,5
+2026-09-02,sh,Madison Club,2
+2026-09-02,sh,Pit,46
+2026-09-02,sh,Suites,1
+2026-09-02,sh,West Balcony,15
+2026-09-02,sh,West Balcony Barstools,4
+2026-09-02,vs,,4
+2026-09-02,vs,100 Level,31
+2026-09-02,vs,200 Level,43
+2026-09-02,vs,400 Level,9
+2026-09-02,vs,Chase Bridges,4
+2026-09-02,vs,General Admission,5
+2026-09-02,vs,Lounge,2
+2026-09-02,vs,Pit,2
+2026-09-04,sh,100 Level,614
+2026-09-04,sh,200 Level,516
+2026-09-04,sh,200 Level Barstools,4
+2026-09-04,sh,400 Level,52
+2026-09-04,sh,Chase Bridges,33
+2026-09-04,sh,Chase Bridges Barstools,5
+2026-09-04,sh,General Admission,181
+2026-09-04,sh,Lounge,8
+2026-09-04,sh,Lounge Barstools,3
+2026-09-04,sh,Madison Club,7
+2026-09-04,sh,Pit,47
+2026-09-04,sh,West Balcony,17
+2026-09-04,sh,West Balcony Barstools,7
+2026-09-04,vs,,6
+2026-09-04,vs,100 Level,41
+2026-09-04,vs,200 Level,35
+2026-09-04,vs,400 Level,9
+2026-09-04,vs,Chase Bridges,3
+2026-09-04,vs,General Admission,6
+2026-09-04,vs,Lounge Barstools,2
+2026-09-04,vs,Madison Club,1
+2026-09-04,vs,Pit,3
+2026-09-04,vs,West Balcony,1
+2026-09-05,sh,100 Level,616
+2026-09-05,sh,200 Level,473
+2026-09-05,sh,200 Level Barstools,5
+2026-09-05,sh,400 Level,43
+2026-09-05,sh,Chase Bridges,27
+2026-09-05,sh,Chase Bridges Barstools,4
+2026-09-05,sh,General Admission,190
+2026-09-05,sh,Lounge,6
+2026-09-05,sh,Lounge Barstools,2
+2026-09-05,sh,Madison Club,10
+2026-09-05,sh,Pit,60
+2026-09-05,sh,West Balcony,30
+2026-09-05,sh,West Balcony Barstools,10
+2026-09-05,vs,,4
+2026-09-05,vs,100 Level,25
+2026-09-05,vs,200 Level,19
+2026-09-05,vs,400 Level,6
+2026-09-05,vs,Chase Bridges,2
+2026-09-05,vs,General Admission,8
+2026-09-05,vs,Pit,1
+2026-09-05,vs,West Balcony,1
+2026-09-09,sh,100 Level,637
+2026-09-09,sh,200 Level,471
+2026-09-09,sh,200 Level Barstools,3
+2026-09-09,sh,400 Level,32
+2026-09-09,sh,Chase Bridges,30
+2026-09-09,sh,Chase Bridges Barstools,3
+2026-09-09,sh,Floor,2
+2026-09-09,sh,General Admission,198
+2026-09-09,sh,Lounge,4
+2026-09-09,sh,Lounge Barstools,2
+2026-09-09,sh,Madison Club,10
+2026-09-09,sh,Pit,60
+2026-09-09,sh,Suites,1
+2026-09-09,sh,West Balcony,7
+2026-09-09,sh,West Balcony Barstools,6
+2026-09-09,vs,,10
+2026-09-09,vs,100 Level,36
+2026-09-09,vs,200 Level,47
+2026-09-09,vs,400 Level,17
+2026-09-09,vs,Chase Bridges,6
+2026-09-09,vs,General Admission,2
+2026-09-09,vs,Lounge,1
+2026-09-09,vs,Madison Club,4
+2026-09-09,vs,Pit,2
+2026-09-09,vs,West Balcony,1
+2026-09-11,sh,100 Level,547
+2026-09-11,sh,200 Level,495
+2026-09-11,sh,200 Level Barstools,2
+2026-09-11,sh,400 Level,38
+2026-09-11,sh,Chase Bridges,23
+2026-09-11,sh,Chase Bridges Barstools,3
+2026-09-11,sh,Floor,1
+2026-09-11,sh,General Admission,184
+2026-09-11,sh,Lounge,9
+2026-09-11,sh,Lounge Barstools,1
+2026-09-11,sh,Madison Club,2
+2026-09-11,sh,Pit,64
+2026-09-11,sh,Suites,1
+2026-09-11,sh,West Balcony,16
+2026-09-11,sh,West Balcony Barstools,9
+2026-09-11,vs,,6
+2026-09-11,vs,100 Level,72
+2026-09-11,vs,200 Level,53
+2026-09-11,vs,400 Level,9
+2026-09-11,vs,Chase Bridges,6
+2026-09-11,vs,General Admission,18
+2026-09-11,vs,Lounge,1
+2026-09-11,vs,Pit,12
+2026-09-11,vs,West Balcony,1
+2026-09-12,sh,100 Level,618
+2026-09-12,sh,200 Level,477
+2026-09-12,sh,200 Level Barstools,3
+2026-09-12,sh,400 Level,47
+2026-09-12,sh,Chase Bridges,17
+2026-09-12,sh,Chase Bridges Barstools,2
+2026-09-12,sh,General Admission,181
+2026-09-12,sh,Lounge,4
+2026-09-12,sh,Lounge Barstools,2
+2026-09-12,sh,Madison Club,5
+2026-09-12,sh,Pit,78
+2026-09-12,sh,Suites,1
+2026-09-12,sh,West Balcony,17
+2026-09-12,sh,West Balcony Barstools,5
+2026-09-12,vs,,10
+2026-09-12,vs,100 Level,46
+2026-09-12,vs,200 Level,51
+2026-09-12,vs,400 Level,23
+2026-09-12,vs,Chase Bridges,5
+2026-09-12,vs,General Admission,11
+2026-09-12,vs,Lounge,1
+2026-09-12,vs,Lounge Barstools,3
+2026-09-12,vs,Pit,3
+2026-09-12,vs,West Balcony,3
+2026-09-16,sh,100 Level,593
+2026-09-16,sh,200 Level,508
+2026-09-16,sh,200 Level Barstools,6
+2026-09-16,sh,400 Level,22
+2026-09-16,sh,Chase Bridges,18
+2026-09-16,sh,Chase Bridges Barstools,3
+2026-09-16,sh,General Admission,167
+2026-09-16,sh,Lounge,10
+2026-09-16,sh,Lounge Barstools,1
+2026-09-16,sh,Madison Club,15
+2026-09-16,sh,Pit,53
+2026-09-16,sh,West Balcony,13
+2026-09-16,sh,West Balcony Barstools,2
+2026-09-16,vs,,3
+2026-09-16,vs,100 Level,51
+2026-09-16,vs,200 Level,66
+2026-09-16,vs,400 Level,17
+2026-09-16,vs,Chase Bridges,7
+2026-09-16,vs,Chase Bridges Barstools,2
+2026-09-16,vs,General Admission,12
+2026-09-16,vs,Lounge Barstools,1
+2026-09-16,vs,Madison Club,2
+2026-09-16,vs,Pit,3
+2026-09-18,sh,,1
+2026-09-18,sh,100 Level,571
+2026-09-18,sh,200 Level,461
+2026-09-18,sh,200 Level Barstools,9
+2026-09-18,sh,400 Level,46
+2026-09-18,sh,Chase Bridges,25
+2026-09-18,sh,Chase Bridges Barstools,5
+2026-09-18,sh,General Admission,175
+2026-09-18,sh,Lounge,6
+2026-09-18,sh,Lounge Barstools,5
+2026-09-18,sh,Madison Club,1
+2026-09-18,sh,Pit,48
+2026-09-18,sh,Suites,1
+2026-09-18,sh,West Balcony,25
+2026-09-18,sh,West Balcony Barstools,3
+2026-09-18,vs,,5
+2026-09-18,vs,100 Level,71
+2026-09-18,vs,200 Level,55
+2026-09-18,vs,400 Level,17
+2026-09-18,vs,Chase Bridges,3
+2026-09-18,vs,Chase Bridges Barstools,2
+2026-09-18,vs,General Admission,6
+2026-09-18,vs,Lounge,1
+2026-09-18,vs,Lounge Barstools,1
+2026-09-18,vs,Pit,2
+2026-09-18,vs,West Balcony,2
+2026-09-19,sh,100 Level,604
+2026-09-19,sh,200 Level,493
+2026-09-19,sh,200 Level Barstools,5
+2026-09-19,sh,400 Level,61
+2026-09-19,sh,Chase Bridges,23
+2026-09-19,sh,Chase Bridges Barstools,2
+2026-09-19,sh,Floor,1
+2026-09-19,sh,General Admission,175
+2026-09-19,sh,Lounge,15
+2026-09-19,sh,Lounge Barstools,3
+2026-09-19,sh,Madison Club,10
+2026-09-19,sh,Pit,80
+2026-09-19,sh,West Balcony,18
+2026-09-19,sh,West Balcony Barstools,1
+2026-09-19,vs,,6
+2026-09-19,vs,100 Level,68
+2026-09-19,vs,200 Level,53
+2026-09-19,vs,400 Level,23
+2026-09-19,vs,Chase Bridges,3
+2026-09-19,vs,Chase Bridges Barstools,1
+2026-09-19,vs,General Admission,12
+2026-09-19,vs,Lounge,6
+2026-09-19,vs,Madison Club,1
+2026-09-19,vs,West Balcony,3
+2026-09-23,sh,100 Level,513
+2026-09-23,sh,200 Level,502
+2026-09-23,sh,200 Level Barstools,14
+2026-09-23,sh,400 Level,39
+2026-09-23,sh,Chase Bridges,26
+2026-09-23,sh,Chase Bridges Barstools,7
+2026-09-23,sh,Floor,1
+2026-09-23,sh,General Admission,159
+2026-09-23,sh,Lounge,6
+2026-09-23,sh,Lounge Barstools,2
+2026-09-23,sh,Madison Club,10
+2026-09-23,sh,Pit,41
+2026-09-23,sh,West Balcony,19
+2026-09-23,sh,West Balcony Barstools,8
+2026-09-23,vs,,14
+2026-09-23,vs,100 Level,68
+2026-09-23,vs,200 Level,74
+2026-09-23,vs,200 Level Barstools,1
+2026-09-23,vs,400 Level,16
+2026-09-23,vs,Chase Bridges,5
+2026-09-23,vs,Chase Bridges Barstools,2
+2026-09-23,vs,General Admission,8
+2026-09-23,vs,Lounge Barstools,1
+2026-09-23,vs,Pit,3
+2026-09-25,sh,100 Level,600
+2026-09-25,sh,200 Level,473
+2026-09-25,sh,200 Level Barstools,5
+2026-09-25,sh,400 Level,41
+2026-09-25,sh,Chase Bridges,20
+2026-09-25,sh,Chase Bridges Barstools,4
+2026-09-25,sh,General Admission,177
+2026-09-25,sh,Lounge,16
+2026-09-25,sh,Madison Club,4
+2026-09-25,sh,Pit,66
+2026-09-25,sh,West Balcony,13
+2026-09-25,sh,West Balcony Barstools,3
+2026-09-25,vs,,9
+2026-09-25,vs,100 Level,78
+2026-09-25,vs,200 Level,130
+2026-09-25,vs,400 Level,13
+2026-09-25,vs,Chase Bridges,12
+2026-09-25,vs,Chase Bridges Barstools,2
+2026-09-25,vs,General Admission,11
+2026-09-25,vs,Lounge,10
+2026-09-25,vs,Madison Club,1
+2026-09-25,vs,Pit,5
+2026-09-25,vs,West Balcony,10
+2026-09-26,sh,100 Level,520
+2026-09-26,sh,200 Level,496
+2026-09-26,sh,200 Level Barstools,6
+2026-09-26,sh,400 Level,42
+2026-09-26,sh,Chase Bridges,24
+2026-09-26,sh,Chase Bridges Barstools,5
+2026-09-26,sh,General Admission,144
+2026-09-26,sh,Lounge,17
+2026-09-26,sh,Lounge Barstools,5
+2026-09-26,sh,Madison Club,9
+2026-09-26,sh,Pit,55
+2026-09-26,sh,West Balcony,11
+2026-09-26,sh,West Balcony Barstools,7
+2026-09-26,vs,,7
+2026-09-26,vs,100 Level,72
+2026-09-26,vs,200 Level,53
+2026-09-26,vs,400 Level,9
+2026-09-26,vs,Chase Bridges,5
+2026-09-26,vs,General Admission,5
+2026-09-26,vs,Lounge,1
+2026-09-26,vs,Lounge Barstools,3
+2026-09-26,vs,Madison Club,2
+2026-09-26,vs,Pit,2
+2026-09-26,vs,West Balcony,5
+2026-09-30,sh,100 Level,476
+2026-09-30,sh,200 Level,399
+2026-09-30,sh,200 Level Barstools,2
+2026-09-30,sh,400 Level,27
+2026-09-30,sh,Chase Bridges,15
+2026-09-30,sh,Chase Bridges Barstools,7
+2026-09-30,sh,General Admission,114
+2026-09-30,sh,Lounge,7
+2026-09-30,sh,Lounge Barstools,2
+2026-09-30,sh,Madison Club,3
+2026-09-30,sh,Pit,64
+2026-09-30,sh,West Balcony,27
+2026-09-30,sh,West Balcony Barstools,7
+2026-09-30,vs,,6
+2026-09-30,vs,100 Level,39
+2026-09-30,vs,200 Level,63
+2026-09-30,vs,400 Level,5
+2026-09-30,vs,Chase Bridges,3
+2026-09-30,vs,Chase Bridges Barstools,1
+2026-09-30,vs,General Admission,5
+2026-09-30,vs,Lounge,2
+2026-09-30,vs,Madison Club,1
+2026-09-30,vs,Pit,1
+2026-09-30,vs,West Balcony,1
+2026-10-03,sh,100 Level,367
+2026-10-03,sh,200 Level,382
+2026-10-03,sh,200 Level Barstools,2
+2026-10-03,sh,400 Level,34
+2026-10-03,sh,Chase Bridges,16
+2026-10-03,sh,Chase Bridges Barstools,2
+2026-10-03,sh,Floor,1
+2026-10-03,sh,General Admission,130
+2026-10-03,sh,Lounge,6
+2026-10-03,sh,Lounge Barstools,1
+2026-10-03,sh,Madison Club,6
+2026-10-03,sh,Pit,46
+2026-10-03,sh,West Balcony,13
+2026-10-03,sh,West Balcony Barstools,2
+2026-10-03,vs,,2
+2026-10-03,vs,100 Level,23
+2026-10-03,vs,200 Level,35
+2026-10-03,vs,400 Level,4
+2026-10-03,vs,Chase Bridges,2
+2026-10-03,vs,General Admission,8
+2026-10-03,vs,Pit,1
+2026-10-07,sh,100 Level,417
+2026-10-07,sh,200 Level,353
+2026-10-07,sh,200 Level Barstools,6
+2026-10-07,sh,400 Level,19
+2026-10-07,sh,Chase Bridges,11
+2026-10-07,sh,Chase Bridges Barstools,4
+2026-10-07,sh,General Admission,106
+2026-10-07,sh,Lounge,3
+2026-10-07,sh,Lounge Barstools,1
+2026-10-07,sh,Madison Club,1
+2026-10-07,sh,Pit,39
+2026-10-07,sh,West Balcony,23
+2026-10-07,sh,West Balcony Barstools,3
+2026-10-07,vs,100 Level,36
+2026-10-07,vs,200 Level,61
+2026-10-07,vs,400 Level,4
+2026-10-07,vs,General Admission,1
+2026-10-09,sh,100 Level,355
+2026-10-09,sh,200 Level,340
+2026-10-09,sh,200 Level Barstools,5
+2026-10-09,sh,400 Level,24
+2026-10-09,sh,Chase Bridges,16
+2026-10-09,sh,Chase Bridges Barstools,1
+2026-10-09,sh,General Admission,146
+2026-10-09,sh,Lounge,11
+2026-10-09,sh,Lounge Barstools,4
+2026-10-09,sh,Madison Club,4
+2026-10-09,sh,Pit,38
+2026-10-09,sh,West Balcony,10
+2026-10-09,sh,West Balcony Barstools,2
+2026-10-09,vs,,1
+2026-10-09,vs,100 Level,20
+2026-10-09,vs,200 Level,45
+2026-10-09,vs,Chase Bridges,2
+2026-10-09,vs,General Admission,10
+2026-10-09,vs,West Balcony,1
+2026-10-10,sh,100 Level,356
+2026-10-10,sh,200 Level,410
+2026-10-10,sh,200 Level Barstools,4
+2026-10-10,sh,400 Level,27
+2026-10-10,sh,Chase Bridges,20
+2026-10-10,sh,Chase Bridges Barstools,5
+2026-10-10,sh,General Admission,127
+2026-10-10,sh,Lounge,10
+2026-10-10,sh,Lounge Barstools,3
+2026-10-10,sh,Madison Club,10
+2026-10-10,sh,Pit,58
+2026-10-10,sh,West Balcony,16
+2026-10-10,sh,West Balcony Barstools,3
+2026-10-10,vs,100 Level,22
+2026-10-10,vs,200 Level,21
+2026-10-10,vs,400 Level,8
+2026-10-10,vs,Chase Bridges,7
+2026-10-10,vs,Chase Bridges Barstools,2
+2026-10-10,vs,General Admission,10
+2026-10-10,vs,Madison Club,2
+2026-10-10,vs,Pit,2
+2026-10-14,sh,100 Level,366
+2026-10-14,sh,200 Level,372
+2026-10-14,sh,200 Level Barstools,1
+2026-10-14,sh,400 Level,15
+2026-10-14,sh,Chase Bridges,13
+2026-10-14,sh,Chase Bridges Barstools,2
+2026-10-14,sh,General Admission,130
+2026-10-14,sh,Lounge,10
+2026-10-14,sh,Lounge Barstools,1
+2026-10-14,sh,Madison Club,5
+2026-10-14,sh,Pit,28
+2026-10-14,sh,West Balcony,18
+2026-10-14,sh,West Balcony Barstools,5
+2026-10-14,vs,,4
+2026-10-14,vs,100 Level,22
+2026-10-14,vs,200 Level,39
+2026-10-14,vs,400 Level,6
+2026-10-14,vs,Chase Bridges,2
+2026-10-14,vs,Chase Bridges Barstools,1
+2026-10-14,vs,General Admission,11
+2026-10-14,vs,Lounge,3
+2026-10-14,vs,Lounge Barstools,1
+2026-10-14,vs,Madison Club,4
+2026-10-14,vs,Pit,3
+2026-10-14,vs,West Balcony,3
+2026-10-16,sh,100 Level,340
+2026-10-16,sh,200 Level,334
+2026-10-16,sh,200 Level Barstools,4
+2026-10-16,sh,400 Level,20
+2026-10-16,sh,Chase Bridges,21
+2026-10-16,sh,Chase Bridges Barstools,2
+2026-10-16,sh,Floor,1
+2026-10-16,sh,General Admission,60
+2026-10-16,sh,Lounge,3
+2026-10-16,sh,Lounge Barstools,2
+2026-10-16,sh,Madison Club,10
+2026-10-16,sh,Pit,38
+2026-10-16,sh,West Balcony,23
+2026-10-16,sh,West Balcony Barstools,6
+2026-10-16,vs,,1
+2026-10-16,vs,100 Level,23
+2026-10-16,vs,200 Level,29
+2026-10-16,vs,400 Level,6
+2026-10-16,vs,Chase Bridges,3
+2026-10-16,vs,General Admission,8
+2026-10-16,vs,Madison Club,4
+2026-10-16,vs,Pit,3
+2026-10-16,vs,West Balcony,1
+2026-10-17,sh,100 Level,360
+2026-10-17,sh,200 Level,351
+2026-10-17,sh,200 Level Barstools,5
+2026-10-17,sh,400 Level,17
+2026-10-17,sh,Chase Bridges,18
+2026-10-17,sh,Chase Bridges Barstools,7
+2026-10-17,sh,Floor,1
+2026-10-17,sh,General Admission,125
+2026-10-17,sh,Lounge,11
+2026-10-17,sh,Lounge Barstools,3
+2026-10-17,sh,Madison Club,5
+2026-10-17,sh,Pit,45
+2026-10-17,sh,West Balcony,23
+2026-10-17,sh,West Balcony Barstools,12
+2026-10-17,vs,,1
+2026-10-17,vs,100 Level,28
+2026-10-17,vs,200 Level,28
+2026-10-17,vs,400 Level,1
+2026-10-17,vs,Chase Bridges Barstools,1
+2026-10-17,vs,General Admission,1
+2026-10-17,vs,Pit,5
+2026-10-17,vs,West Balcony,1
+2026-10-17,vs,West Balcony Barstools,1
+2026-10-21,sh,100 Level,326
+2026-10-21,sh,200 Level,336
+2026-10-21,sh,200 Level Barstools,3
+2026-10-21,sh,400 Level,12
+2026-10-21,sh,Chase Bridges,8
+2026-10-21,sh,Chase Bridges Barstools,1
+2026-10-21,sh,General Admission,76
+2026-10-21,sh,Lounge,7
+2026-10-21,sh,Madison Club,6
+2026-10-21,sh,Pit,24
+2026-10-21,sh,West Balcony,6
+2026-10-21,sh,West Balcony Barstools,2
+2026-10-21,vs,,6
+2026-10-21,vs,100 Level,24
+2026-10-21,vs,200 Level,22
+2026-10-21,vs,400 Level,1
+2026-10-21,vs,Chase Bridges,2
+2026-10-21,vs,General Admission,10
+2026-10-21,vs,Madison Club,3
+2026-10-21,vs,West Balcony,1
+2026-10-23,sh,100 Level,277
+2026-10-23,sh,200 Level,334
+2026-10-23,sh,200 Level Barstools,5
+2026-10-23,sh,400 Level,20
+2026-10-23,sh,Chase Bridges,5
+2026-10-23,sh,General Admission,83
+2026-10-23,sh,Lounge,10
+2026-10-23,sh,Lounge Barstools,3
+2026-10-23,sh,Madison Club,6
+2026-10-23,sh,Pit,24
+2026-10-23,sh,West Balcony,5
+2026-10-23,sh,West Balcony Barstools,3
+2026-10-23,vs,,3
+2026-10-23,vs,100 Level,19
+2026-10-23,vs,200 Level,26
+2026-10-23,vs,400 Level,2
+2026-10-23,vs,General Admission,3
+2026-10-24,sh,,1
+2026-10-24,sh,100 Level,348
+2026-10-24,sh,200 Level,333
+2026-10-24,sh,200 Level Barstools,8
+2026-10-24,sh,400 Level,20
+2026-10-24,sh,Chase Bridges,12
+2026-10-24,sh,Chase Bridges Barstools,2
+2026-10-24,sh,Floor,1
+2026-10-24,sh,General Admission,120
+2026-10-24,sh,Lounge,9
+2026-10-24,sh,Lounge Barstools,3
+2026-10-24,sh,Madison Club,11
+2026-10-24,sh,Pit,41
+2026-10-24,sh,West Balcony,12
+2026-10-24,sh,West Balcony Barstools,6
+2026-10-24,vs,100 Level,25
+2026-10-24,vs,200 Level,27
+2026-10-24,vs,400 Level,3
+2026-10-24,vs,Chase Bridges,3
+2026-10-24,vs,General Admission,8
+2026-10-24,vs,Pit,1
+2026-10-28,sh,100 Level,291
+2026-10-28,sh,200 Level,259
+2026-10-28,sh,200 Level Barstools,1
+2026-10-28,sh,400 Level,14
+2026-10-28,sh,Chase Bridges,15
+2026-10-28,sh,General Admission,93
+2026-10-28,sh,Lounge,9
+2026-10-28,sh,Madison Club,3
+2026-10-28,sh,Pit,38
+2026-10-28,sh,West Balcony,21
+2026-10-28,sh,West Balcony Barstools,2
+2026-10-28,vs,,3
+2026-10-28,vs,100 Level,20
+2026-10-28,vs,200 Level,36
+2026-10-28,vs,400 Level,5
+2026-10-28,vs,Chase Bridges,2
+2026-10-28,vs,General Admission,4
+2026-10-28,vs,Lounge,2
+2026-10-28,vs,Madison Club,1
+2026-10-28,vs,Pit,1
+2026-10-30,sh,100 Level,268
+2026-10-30,sh,200 Level,220
+2026-10-30,sh,200 Level Barstools,1
+2026-10-30,sh,400 Level,12
+2026-10-30,sh,Chase Bridges,11
+2026-10-30,sh,Chase Bridges Barstools,3
+2026-10-30,sh,Floor,2
+2026-10-30,sh,General Admission,72
+2026-10-30,sh,Lounge,5
+2026-10-30,sh,Madison Club,8
+2026-10-30,sh,Pit,35
+2026-10-30,sh,West Balcony,12
+2026-10-30,sh,West Balcony Barstools,5
+2026-10-30,vs,,7
+2026-10-30,vs,100 Level,19
+2026-10-30,vs,200 Level,30
+2026-10-30,vs,400 Level,1
+2026-10-30,vs,Chase Bridges,4
+2026-10-30,vs,General Admission,2
+2026-10-30,vs,West Balcony,1
+2026-10-30,vs,West Balcony Barstools,3
+2026-10-31,sh,100 Level,296
+2026-10-31,sh,200 Level,227
+2026-10-31,sh,200 Level Barstools,2
+2026-10-31,sh,400 Level,9
+2026-10-31,sh,Chase Bridges,9
+2026-10-31,sh,Chase Bridges Barstools,4
+2026-10-31,sh,General Admission,82
+2026-10-31,sh,Lounge,3
+2026-10-31,sh,Madison Club,5
+2026-10-31,sh,Pit,23
+2026-10-31,sh,West Balcony,4
+2026-10-31,sh,West Balcony Barstools,3
+2026-10-31,vs,,1
+2026-10-31,vs,100 Level,9
+2026-10-31,vs,200 Level,16
+2026-10-31,vs,400 Level,1
+2026-10-31,vs,Chase Bridges,1

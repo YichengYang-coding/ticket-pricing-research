@@ -1,0 +1,9 @@
+title,url,use_and_limit
+MSG 官方演出页面,https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-october-2026/3B00643506AE83A2,核实场馆与演出；官方通用地图注明布局随演出变化。
+MSG 官方座位图,https://www.msg.com/madison-square-garden/seating/msg-knicks,通用场馆参考，当前链接默认篮球配置；不能当作Harry完整演出图。
+Harry 演出舞台图及实拍,https://aviewfrommyseat.com/guides/harry_styles_together_together_tour/concert/New%2BYork/September%2B18%2B2026/,页面提供本轮中央舞台、椭圆走道图及现场视角；图非本报告自制分区图。
+SeatGeek 本轮演出座位指南,https://seatgeek.com/blog/best-seats-for-harry-styles-at-madison-square-garden-where-to-sit-for-the-together-together-tour,2026-08-31；中央圆台、椭圆走道、Kiss/Disco及Left/Right GA。
+Section 107 座位指南,https://www.rateyourseats.com/madison-square-garden/seating/sections/107,通常排号1–22；说明实际排号不等于本样本最小观测排号。
+Section 118 座位指南,https://www.rateyourseats.com/madison-square-garden/seating/sections/118,列出5–22；样本两条Row23保留为待核实。
+Section 101 座位指南,https://www.rateyourseats.com/madison-square-garden/seating/sections/101,通用指南列6–20，与本样本22排记录有出入，因此不据此强删或宣称本轮总排数。
+数据商采集方法,https://docs.seatdata.io/docs/sales-data-collection-methodology/,价格/数量可能推断，座位号未追踪，成交覆盖不完整。

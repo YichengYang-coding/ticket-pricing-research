@@ -1,0 +1,13 @@
+{
+  "all_raw_bytes_and_seven_columns_preserved": true,
+  "accepted_rows": 37021,
+  "quarantine_rows": 2406,
+  "independent_price_beta_fwl": -0.19995155386660363,
+  "independent_count_beta_profile_likelihood": {
+    "primary_7_14": -0.04781053054198739,
+    "window_0_7": -0.1954366311475318,
+    "followup_fixed15_0_28": -0.03733111433322128
+  },
+  "complete_window_boundaries_verified": true,
+  "four_disjoint_windows_sum_to_28day_counts": true
+}

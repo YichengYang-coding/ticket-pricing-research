@@ -1,0 +1,49 @@
+{
+  "accepted_rows": 37021,
+  "accepted_events": 29,
+  "primary_price": {
+    "model": "primary_7_14",
+    "n_records": 1294,
+    "n_events": 17,
+    "n_sale_weeks": 7,
+    "rank": 55,
+    "beta": -0.19995155386660696,
+    "se": 0.043648215016588124,
+    "df": 6,
+    "pct_per_10": -18.12295816219341,
+    "ci_low_pct": -26.41690605492743,
+    "ci_high_pct": -8.894154612278998,
+    "p": 0.003766637744091892
+  },
+  "primary_activity": {
+    "model": "primary_7_14",
+    "outcome": "ordinary100_count",
+    "n_events": 17,
+    "n_records": 1294,
+    "n_event_weeks": 6,
+    "beta": -0.047810530862179144,
+    "se": 0.14201844421162144,
+    "df": 5,
+    "dispersion": 4.222140081522251,
+    "pct_per_10": -4.668560637648677,
+    "ci_low_pct": -33.82586860754626,
+    "ci_high_pct": 37.335891528363,
+    "p": 0.7500506204507541
+  },
+  "primary_quality": {
+    "qty_unknown": 52,
+    "duplicate_extra_candidate": 0,
+    "price_extreme_review": 0,
+    "price_above_10000_review": 0
+  },
+  "primary_allzone_records": 2705,
+  "all_days_observed": 17,
+  "max_gap_range": [
+    7.683333333348855,
+    15.633333333360497
+  ],
+  "first6_index": 100.0,
+  "last6_available_index": 79.3273727173127,
+  "first6_count": 74.83333333333333,
+  "last6_available_count": 71.83333333333333
+}

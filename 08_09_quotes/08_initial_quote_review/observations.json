@@ -1,0 +1,19 @@
+[
+ {"file":"01-105R22.jpg","batch":"previous","section":105,"row":2,"seat":null,"quantity":1,"base":894.00,"fee":127.51,"discount":0,"total":1021.51,"delivery":"by Sep 30","notes":"Screenshot says Row 2; filename is not the seat label."},
+ {"file":"03-115.jpg","batch":"previous","section":115,"row":11,"seat":null,"quantity":1,"base":799.00,"fee":113.86,"discount":0,"total":912.86,"delivery":"not visible","notes":""},
+ {"file":"06-1172.jpg","batch":"previous","section":117,"row":12,"seat":null,"quantity":1,"base":399.00,"fee":58.91,"discount":9.11,"total":448.80,"delivery":"instant","notes":"Discount amount is explicit; do not infer it from the Save 1% label."},
+ {"file":"01-2026-09-29-181125.jpg","batch":"current","section":113,"row":6,"seat":null,"quantity":1,"base":371.00,"fee":54.13,"discount":0,"total":425.13,"delivery":"instant","notes":""},
+ {"file":"02-11222.jpg","batch":"current","section":112,"row":22,"seat":null,"quantity":1,"base":303.00,"fee":45.18,"discount":0,"total":348.18,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"03-2026-09-29-181316.jpg","batch":"current","section":103,"row":16,"seat":12,"quantity":1,"base":308.00,"fee":45.12,"discount":0,"total":353.12,"delivery":"not visible","notes":""},
+ {"file":"04-2026-09-29-181304.jpg","batch":"current","section":102,"row":21,"seat":null,"quantity":1,"base":408.00,"fee":59.19,"discount":0,"total":467.19,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"05-2026-09-29-181242.jpg","batch":"current","section":119,"row":16,"seat":null,"quantity":1,"base":288.00,"fee":43.30,"discount":0,"total":331.30,"delivery":"by Sep 30","notes":""},
+ {"file":"06-2026-09-29-181227.jpg","batch":"current","section":118,"row":9,"seat":null,"quantity":1,"base":369.00,"fee":54.22,"discount":0,"total":423.22,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"07-2026-09-29-181214.jpg","batch":"current","section":117,"row":12,"seat":null,"quantity":1,"base":399.00,"fee":58.91,"discount":9.11,"total":448.80,"delivery":"instant","notes":"Same observed seat/price combination as previous batch; listing identity not available."},
+ {"file":"08-2026-09-29-181200.jpg","batch":"current","section":115,"row":21,"seat":null,"quantity":1,"base":408.00,"fee":59.19,"discount":0,"total":467.19,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"09-2026-09-29-181139.jpg","batch":"current","section":113,"row":20,"seat":17,"quantity":1,"base":276.00,"fee":40.64,"discount":0,"total":316.64,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"10-2026-09-29-181420.jpg","batch":"current","section":109,"row":21,"seat":null,"quantity":1,"base":306.00,"fee":44.84,"discount":0,"total":350.84,"delivery":"mobile; deadline not visible","notes":"Notes from the seller heading visible; note contents cropped out."},
+ {"file":"11-2026-09-29-181405.jpg","batch":"current","section":109,"row":19,"seat":null,"quantity":1,"base":398.00,"fee":58.85,"discount":0,"total":456.85,"delivery":"not visible","notes":""},
+ {"file":"12-2026-09-29-181353.jpg","batch":"current","section":107,"row":9,"seat":null,"quantity":1,"base":550.00,"fee":79.00,"discount":0,"total":629.00,"delivery":"mobile; deadline not visible","notes":""},
+ {"file":"13-2026-09-29-181340.jpg","batch":"current","section":105,"row":15,"seat":3,"quantity":1,"base":400.00,"fee":58.00,"discount":0,"total":458.00,"delivery":"not visible","notes":""},
+ {"file":"14-2026-09-29-181328.jpg","batch":"current","section":104,"row":17,"seat":null,"quantity":1,"base":408.00,"fee":59.19,"discount":0,"total":467.19,"delivery":"not visible","notes":""}
+]

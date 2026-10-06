@@ -1,0 +1,13 @@
+{
+  "check": {
+    "rate": 0.14606685915502343,
+    "totals": [
+      59,
+      1118,
+      163,
+      306
+    ],
+    "fee_recalculation_passed": true
+  },
+  "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

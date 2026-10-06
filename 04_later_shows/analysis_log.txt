@@ -1,0 +1,91 @@
+{
+  "accepted_rows": 37021,
+  "accepted_events": 29,
+  "primary_price": {
+    "model": "primary_7_14",
+    "n_records": 1294,
+    "n_events": 17,
+    "n_sale_weeks": 7,
+    "rank": 55,
+    "beta": -0.19995155386660696,
+    "se": 0.043648215016588124,
+    "df": 6,
+    "pct_per_10": -18.12295816219341,
+    "ci_low_pct": -26.41690605492743,
+    "ci_high_pct": -8.894154612278998,
+    "p": 0.003766637744091892
+  },
+  "primary_activity": {
+    "model": "primary_7_14",
+    "outcome": "ordinary100_count",
+    "n_events": 17,
+    "n_records": 1294,
+    "n_event_weeks": 6,
+    "beta": -0.047810530862179144,
+    "se": 0.14201844421162144,
+    "df": 5,
+    "dispersion": 4.222140081522251,
+    "pct_per_10": -4.668560637648677,
+    "ci_low_pct": -33.82586860754626,
+    "ci_high_pct": 37.335891528363,
+    "p": 0.7500506204507541
+  },
+  "primary_quality": {
+    "qty_unknown": 52,
+    "duplicate_extra_candidate": 0,
+    "price_extreme_review": 0,
+    "price_above_10000_review": 0
+  },
+  "primary_allzone_records": 2705,
+  "all_days_observed": 17,
+  "max_gap_range": [
+    7.683333333348855,
+    15.633333333360497
+  ],
+  "first6_index": 100.0,
+  "last6_available_index": 79.3273727173127,
+  "first6_count": 74.83333333333333,
+  "last6_available_count": 71.83333333333333
+}
+                     model  n_events  n_records  pct_per_10  ci_low_pct  ci_high_pct
+              primary_7_14        17       1294  -18.122958  -26.416906    -8.894155
+         exact_section_row        17       1294  -18.429374  -25.497638   -10.690522
+         completed_first15        15       1160  -19.161055  -28.062915    -9.157634
+           exclude_opening        16       1224  -15.124710  -24.585168    -4.477479
+exclude_observed_endpoints        15       1157  -16.792160  -27.082958    -5.049019
+          dedup_candidates        17       1294  -18.122958  -26.416906    -8.894155
+       exclude_price_flags        17       1294  -18.122958  -26.416906    -8.894155
+            known_qty_only        17       1242  -18.282405  -26.484990    -9.164600
+           front_rows_1_11        17        548  -16.880071  -25.118934    -7.734718
+            levels_200_400        17        894  -23.343924  -30.199358   -15.815187
+        post_sep10_control        17       1294  -12.173386  -26.190953     4.506350
+      onsale_batch_control        17       1294  -13.512726  -29.826200     6.593181
+                window_0_7        15       3365  -26.645339  -32.077327   -20.778938
+        fixed15_window_0_7        15       3365  -26.645339  -32.077327   -20.778938
+       fixed15_window_7_14        15       1160  -19.161055  -28.062915    -9.157634
+              window_14_21        20        867  -12.006824  -18.410373    -5.100693
+      fixed15_window_14_21        15        629   -9.608294  -19.092913     0.988192
+              window_21_28        23        694   -8.743281  -14.712961    -2.355751
+      fixed15_window_21_28        15        427   -5.572635  -16.645046     6.970574
+           start_shift_-1h        17       1297  -17.936908  -26.128000    -8.837570
+           start_shift_+1h        17       1292  -18.350348  -26.606191    -9.165831
+                        model  n_events  pct_per_10  ci_low_pct  ci_high_pct
+                 primary_7_14        17   -4.668561  -33.825869    37.335892
+         onsale_batch_control        17   28.540230  -30.655387   138.267835
+            completed_first15        15    0.143781  -39.205460    64.961803
+              exclude_opening        16   -8.418036  -36.514404    32.112742
+   exclude_observed_endpoints        15   -8.282374  -38.757289    37.357128
+      all_days_presence_proxy        17   -4.668561  -33.825869    37.335892
+             dedup_candidates        17   -4.668561  -33.825869    37.335892
+                    all_zones        17    9.302846  -29.277209    68.928743
+               levels_200_400        17   42.586114  -24.791634   170.326306
+                   window_0_7        15  -17.752455  -30.749421    -2.316215
+           fixed15_window_0_7        15  -17.752455  -30.749421    -2.316215
+          fixed15_window_7_14        15    0.143781  -39.205460    64.961803
+                 window_14_21        20   21.239693   -4.448411    53.833791
+         fixed15_window_14_21        15   39.464591  -18.099986   137.489241
+                 window_21_28        23   26.186378    3.055373    54.509186
+         fixed15_window_21_28        15   75.958191    5.867098   192.454270
+        followup_fixed15_0_28        15   -3.664284  -21.144545    17.690909
+followup_fixed15_0_28_allzone        15    6.480963  -13.518665    31.105696
+       followup_last7_allzone        15   -6.897669  -22.255556    11.494064

@@ -1,0 +1,9 @@
+{
+  "raw_bytes_and_all_seven_columns_preserved": true,
+  "rows": 22154,
+  "events": 21,
+  "primary_rows": 512,
+  "price_beta_fwl": -0.16666173369951348,
+  "count_beta_profile_likelihood": 0.6764495474754185,
+  "lineage_and_primary_windows_pass": true
+}
